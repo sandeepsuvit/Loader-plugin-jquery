@@ -3,7 +3,7 @@
  * 
  * Created by ---------- Name - SANDEEP KANANGATT Email - sandeepsuvit@gmail.com
  * Website - www.dotedlabs.com Github -
- * https://github.com/sandeepsuvit/LoaderWidget-for-jQuery
+ * https://github.com/sandeepsuvit/Loader-plugin-jquery
  * 
  * This widget is a customized Standby loader plugin for jQuery.
  * 
