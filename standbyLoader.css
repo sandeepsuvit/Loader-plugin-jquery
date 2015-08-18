@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+
+#standbyLoader-overlay {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background: #333;
+	color:#fff;
+	opacity: 0.8;
+	filter: alpha(opacity = 80);
+	z-index: 1002;
+}
+
+#standbyLoader-loading {
+	position: absolute;
+	top: 50%;
+	left: 49.5%;
+	margin: -28px 0 0 -25px;
+	z-index: 1003;
+}
+
+#standbyLoader-loading-text {
+	position: absolute;
+	left: 50%;
+	top: 46.5%;
+	z-index: 1003;
+}
+
+.standbyLoader-hide-scrolls-from-body{
+	overflow-x : hidden;
+	overflow-y : hidden;
+}
